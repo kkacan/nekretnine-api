@@ -1,0 +1,109 @@
+{
+  "kuce": [
+{
+"adresa": "Grgura ninskog 5",
+"cijena": "150000 €",
+"email": "pero.peric@gmail.com",
+"id": 1,
+"ime": "Pero",
+"kvadratura": "100 m2",
+"mjesto": "Nin",
+"opis": "Kuća sa bazenom, prvi red do mora.",
+"prezime": "Perić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/vikendica-ku%C4%87a-za-odmor-arhitekt-1024x576.jpg",
+"slika2": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/gradnja-ku%c4%87a-gra%c4%91evinska-dozvola_3-1024x402.jpg",
+"slika3": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/luksuzna-vila-1024x576.jpg",
+"slika4": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/luksuzna-vila-za-izdavanje-projekt.jpg"
+},
+{
+"adresa": "Put Petrića 3",
+"cijena": "240000 €",
+"email": "iva.ivic@gmail.com",
+"id": 3,
+"ime": "Iva",
+"kvadratura": "250 m2",
+"mjesto": "Zadar",
+"opis": "Kuća sa velikom okućnicom.",
+"prezime": "Ivić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/nacrt-ku%c4%87e-projekt-ideje-ured-1170x350.jpg",
+"slika2": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/ovlasteni-arhitekt-projektiranje-rijeka-3-1024x402.jpg",
+"slika3": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/projekt-ku%c4%87e-arhitekt-cijena-rijeka-570x350.jpg",
+"slika4": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/projekt_ku%c4%87e_opatija_stambene_gra%c4%91evine_arhitekt.jpg"
+},
+{
+"adresa": "Zagrebačka ulica 17",
+"cijena": "170000 €",
+"email": "jure.juric@gmail.com",
+"id": 4,
+"ime": "Jure ",
+"kvadratura": "180 m2",
+"mjesto": "Zadar",
+"opis": "Pogled na Zadarski kanal i otoke.",
+"prezime": "Jurić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/vila-more-krk-arhitektura-projekt-ured-1024x683.jpg",
+"slika2": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/ravni-krov-arhitekt-moderna-arhitektura.jpg",
+"slika3": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/stambena-gra%c4%91evina-crikvenica-krk-glavni-projekt.jpg",
+"slika4": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/presjek-gradnja-ku%c4%87e-cijena-arhitekt.jpg"
+}
+],
+  "stanovi": [
+{
+"adresa": "Zadarska 7",
+"cijena": "110000€",
+"email": "ana.anic@gmail.com",
+"id": 1,
+"ime": "Ana",
+"kvadratura": "55m2",
+"mjesto": "Zadar",
+"prezime": "Anić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/stan-sa-pogeldom-na-more-projekt-1024x576.jpg",
+"slika2": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/projektiranje-rijeka-arhitekt-cijena-povoljno-1024x576.jpg",
+"slika3": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/projekt_ku%c4%87e_opatija_stambene_gra%c4%91evine_arhitekt.jpg",
+"slika4": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/ku%c4%87e-projektant-opatija-luksuzne_5-270x225.jpg"
+},
+{
+"adresa": "Biogradska 22",
+"cijena": "80000€",
+"email": "iva.ivic@gmail.com",
+"id": 2,
+"ime": "Iva",
+"kvadratura": "125m2",
+"mjesto": "Biograd",
+"prezime": "Ivić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/cijena-projekta-rijeka-crikvenica-opatija-1600x500.jpg",
+"slika2": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/tlocrt-3d-projekt-opatija-cijena-arhitekt-1024x438.jpg",
+"slika3": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/unutarnje-ure%c4%91enje-arhitekti-dizajn-design-cijena-1170x350.jpg",
+"slika4": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/unutarnje-ure%c4%91enje-arhitekti-dizajn-design-cijena-1170x500.jpg"
+}
+],
+  "zemljista": [
+{
+"adresa": "Privlačka 21",
+"cijena": "150000€",
+"email": "stipe.stipic@gmail.com",
+"id": 1,
+"ime": "Stipe",
+"kvadratura": "1200m2",
+"mjesto": "Privlaka",
+"prezime": "Stipić",
+"slika1": "http://rijeka-arhitekt.com/wp-content/uploads/2015/07/tlocrt--768x477.jpg",
+"slika2": null,
+"slika3": null,
+"slika4": null
+},
+{
+"adresa": "Zatonska 11",
+"cijena": "90000€",
+"email": "iva.ivic@gmail.com",
+"id": 2,
+"ime": "Iva",
+"kvadratura": "850m2",
+"mjesto": "Zaton",
+"prezime": "Ivić",
+"slika1": "http://www.poslovni.hr/media/cache/c6/fb/c6fbb73c7038ccb7748111d2c84937a9.jpg",
+"slika2": null,
+"slika3": null,
+"slika4": null
+}
+]
+}
